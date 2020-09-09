@@ -3,12 +3,12 @@ import 'materialize-css/dist/css/materialize.min.css';
 
 const Footer = () => {
   return (
-    <footer className="page-footer">
+    <footer className="page-footer blue darken-4">
       <div className="container">
         <div className="row">
           <div className="col l6 s12">
             <h5 className="white-text">About Rate My College</h5>
-            <p className="grey-text text-lighten-4">Our goal is to provide college reviews and information for students in order to choose the correct school for their needs.</p>
+            <p className="grey-text text-lighten-4">Our mission is to provide college reviews and information for students in order to help them choose the correct school for their needs.</p>
           </div>
           <div className="col l4 offset-l2 s12">
             <h5 className="white-text">Links</h5>
